@@ -93,6 +93,4 @@ consistent with standard research practice.
   as you go — this is a working skeleton, not a finished, validated
   pipeline.
 
-## License
 
-MIT — see `LICENSE`.
